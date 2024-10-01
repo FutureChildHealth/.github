@@ -12,6 +12,7 @@ The greatest threat to children's health in the future is environmental change (
 - <a href="https://www.linkedin.com/in/chitra-m-saraswati/">Chitra Saraswati</a>, The Kids Research Institute Australia
 - <a href="https://www.linkedin.com/in/jhermayne-ubalde-44aa57235/">Jhermayne Ubalde</a>, University of Western Australia
 - Dr <a href="https://globalecologyflinders.com/people/#FS">Frédérik Saltré</a>, Flinders University
+- Assoc Prof <a href="https://researchportal.murdoch.edu.au/esploro/profile/jatin_kala/overview">Jatin Kala</a>, Murdoch University
 - Dr <a href="https://loop.frontiersin.org/people/2658416/overview">Lewis Weeda</a>, University of Western Australia
 - Prof <a href="https://publichealth.berkeley.edu/people/ndola-prata">Ndola Prata</a>, University of California Berkeley
 - Prof <a href="https://www.isglobal.org/en/our-team/-/profiles/1900">Quique Bassat</a>, Barcelona Institute for Global Health
