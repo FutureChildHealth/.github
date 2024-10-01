@@ -15,7 +15,7 @@ The greatest threat to children's health in the future is environmental change (
 - Dr <a href="https://loop.frontiersin.org/people/2658416/overview">Lewis Weeda</a>, University of Western Australia
 - Prof <a href="https://publichealth.berkeley.edu/people/ndola-prata">Ndola Prata</a>, University of California Berkeley
 - Prof <a href="https://www.isglobal.org/en/our-team/-/profiles/1900">Quique Bassat</a>, Barcelona Institute for Global Health
-- 
+
 ## Former collaborators
 - Prof <a href="https://research-repository.uwa.edu.au/en/persons/jane-heyworth">Jane Heyworth</a>, University of Western Australia
 - Claire Perry
