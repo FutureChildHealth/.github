@@ -3,25 +3,26 @@ The greatest threat to children's health in the future is environmental change (
 <br>
 <br>
 ## Core Team
-- Dr <a href="https://www.researchgate.net/profile/Melinda-Judge">Melinda Judge</a>
-- Dr <a href="https://globalecologyflinders.com/people/#SHF">Syeda H. Fatima</a>
-- Prof <a href="https://research-repository.uwa.edu.au/en/persons/peter-le-souef">Peter N. Le Souëf</a>
+- Dr <a href="https://www.researchgate.net/profile/Melinda-Judge">Melinda Judge</a>, The Kids Research Institute Australia / University of Western Australia
+- Dr <a href="https://globalecologyflinders.com/people/#SHF">Syeda H. Fatima</a>, Flinders University
+- Professor <a href="https://globalecologyflinders.com/people/#CJAB">Corey J. A. Bradshaw</a>, Flinders University
+- Prof <a href="https://research-repository.uwa.edu.au/en/persons/peter-le-souef">Peter N. Le Souëf</a>, University of Western Australia
 
 ## Collaborators
-- Chitra Saraswati
-- <a href="https://www.linkedin.com/in/jhermayne-ubalde-44aa57235/">Jhermayne Ubalde</a>
-- Dr <a href="https://globalecologyflinders.com/people/#FS">Frédérik Saltré</a>
-- Dr <a href="https://loop.frontiersin.org/people/2658416/overview">Lewis Weeda</a>
-- Prof <a href="https://publichealth.berkeley.edu/people/ndola-prata">Ndola Prata</a>
-- Prof <a href="https://www.isglobal.org/en/our-team/-/profiles/1900">Quique Bassat</a>
+- <a href="https://www.linkedin.com/in/chitra-m-saraswati/">Chitra Saraswati</a>, The Kids Research Institute Australia
+- <a href="https://www.linkedin.com/in/jhermayne-ubalde-44aa57235/">Jhermayne Ubalde</a>, University of Western Australia
+- Dr <a href="https://globalecologyflinders.com/people/#FS">Frédérik Saltré</a>, Flinders University
+- Dr <a href="https://loop.frontiersin.org/people/2658416/overview">Lewis Weeda</a>, University of Western Australia
+- Prof <a href="https://publichealth.berkeley.edu/people/ndola-prata">Ndola Prata</a>, University of California Berkeley
+- Prof <a href="https://www.isglobal.org/en/our-team/-/profiles/1900">Quique Bassat</a>, Barcelona Institute for Global Health
 - 
 ## Former collaborators
-- Prof Jane Heyworth
+- Prof <a href="https://research-repository.uwa.edu.au/en/persons/jane-heyworth">Jane Heyworth</a>, University of Western Australia
 - Claire Perry
-- Dr Alicia Annamalay
-- Prof Sarah Otto
-- Dr Sam Heft-Neal
-- Dr Zachary Wagner
+- Dr <a href="https://www.linkedin.com/in/alicia-annamalay-64876a43/">Alicia Annamalay</a>, The Max Foundation
+- Prof <a href="https://biodiversity.ubc.ca/people/faculty/sarah-otto">Sarah Otto</a>, University of British Columbia
+- Dr <a href="http://stanford.edu/~samhn/"Sam Heft-Neal</a>, Stanford University
+- Dr <a href="https://www.rand.org/about/people/w/wagner_zachary.html">Zachary Wagner</a>, Rand
 <br>
 <br>
 
