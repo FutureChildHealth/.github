@@ -21,7 +21,7 @@ The greatest threat to children's health in the future is environmental change (
 - Claire Perry
 - Dr <a href="https://www.linkedin.com/in/alicia-annamalay-64876a43/">Alicia Annamalay</a>, The Max Foundation
 - Prof <a href="https://biodiversity.ubc.ca/people/faculty/sarah-otto">Sarah Otto</a>, University of British Columbia
-- Dr <a href="http://stanford.edu/~samhn/"Sam Heft-Neal</a>, Stanford University
+- Dr <a href="http://stanford.edu/~samhn/">Sam Heft-Neal</a>, Stanford University
 - Dr <a href="https://www.rand.org/about/people/w/wagner_zachary.html">Zachary Wagner</a>, Rand
 <br>
 <br>
