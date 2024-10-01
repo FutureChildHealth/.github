@@ -6,13 +6,14 @@ The greatest threat to children's health in the future is environmental change (
 - Dr <a href="https://www.researchgate.net/profile/Melinda-Judge">Melinda Judge</a>
 - Dr <a href="https://globalecologyflinders.com/people/#SHF">Syeda H. Fatima</a>
 - Prof <a href="https://research-repository.uwa.edu.au/en/persons/peter-le-souef">Peter N. Le Souëf</a>
+
 ## Collaborators
 - Chitra Saraswati
-- Jhermayne Ubalde
-- Dr Frédérik Saltré
-- Dr Lewis Weeda
-- Prof Ndola Prata
-- Prof Quique Bassat
+- <a href="https://www.linkedin.com/in/jhermayne-ubalde-44aa57235/">Jhermayne Ubalde</a>
+- Dr <a href="https://globalecologyflinders.com/people/#FS">Frédérik Saltré</a>
+- Dr <a href="https://loop.frontiersin.org/people/2658416/overview">Lewis Weeda</a>
+- Prof <a href="https://publichealth.berkeley.edu/people/ndola-prata">Ndola Prata</a>
+- Prof <a href="https://www.isglobal.org/en/our-team/-/profiles/1900">Quique Bassat</a>
 - 
 ## Former collaborators
 - Prof Jane Heyworth
