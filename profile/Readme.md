@@ -12,7 +12,7 @@ The greatest threat to children's health in the future is environmental change (
 
 ## Research papers arising
 See our '<a href="https://github.com/FutureChildHealth/Outputs">Outputs</a>' repository for a list of published, submitted, and preprint papers.
-<img align="right" src="[www/ausdensmap.jpg](https://github.com/FutureChildHealth/Outputs/blob/main/www/paper.png)" width="70" style="margin-top: 20px">
+<img align="right" src="https://github.com/FutureChildHealth/Outputs/blob/main/www/paper.png" width="70" style="margin-top: 20px">
 
 ## Collaborators
 - Prof <a href="https://www.isglobal.org/en/our-team/-/profiles/1900">Quique Bassat</a>, Barcelona Institute for Global Health
