@@ -14,21 +14,21 @@ The greatest threat to children's health in the future is environmental change (
 See our '<a href="https://github.com/FutureChildHealth/Outputs">Outputs</a>' repository for a list of published, submitted, and preprint papers.
 
 ## Collaborators
+- Prof <a href="https://www.isglobal.org/en/our-team/-/profiles/1900">Quique Bassat</a>, Barcelona Institute for Global Health
+- Assoc Prof <a href="https://researchportal.murdoch.edu.au/esploro/profile/jatin_kala/overview">Jatin Kala</a>, Murdoch University
+- Prof <a href="https://publichealth.berkeley.edu/people/ndola-prata">Ndola Prata</a>, University of California Berkeley
+- Dr <a href="https://globalecologyflinders.com/people/#FS">Frédérik Saltré</a>, Flinders University
 - <a href="https://www.linkedin.com/in/chitra-m-saraswati/">Chitra Saraswati</a>, The Kids Research Institute Australia
 - <a href="https://www.linkedin.com/in/jhermayne-ubalde-44aa57235/">Jhermayne Ubalde</a>, University of Western Australia
-- Dr <a href="https://www.linkedin.com/in/mara-west-9746b91/">Mara West</a>, The Kids Research Institute Australia
-- Dr <a href="https://globalecologyflinders.com/people/#FS">Frédérik Saltré</a>, Flinders University
-- Assoc Prof <a href="https://researchportal.murdoch.edu.au/esploro/profile/jatin_kala/overview">Jatin Kala</a>, Murdoch University
 - Dr <a href="https://loop.frontiersin.org/people/2658416/overview">Lewis Weeda</a>, University of Western Australia
-- Prof <a href="https://publichealth.berkeley.edu/people/ndola-prata">Ndola Prata</a>, University of California Berkeley
-- Prof <a href="https://www.isglobal.org/en/our-team/-/profiles/1900">Quique Bassat</a>, Barcelona Institute for Global Health
+- Dr <a href="https://www.linkedin.com/in/mara-west-9746b91/">Mara West</a>, The Kids Research Institute Australia
 
 ## Former Collaborators
-- Prof <a href="https://research-repository.uwa.edu.au/en/persons/jane-heyworth">Jane Heyworth</a>, University of Western Australia
-- <a href="https://www.linkedin.com/in/claire-perry-91398617a/">Claire Perry</a>, Rocky Bay
 - Dr <a href="https://www.linkedin.com/in/alicia-annamalay-64876a43/">Alicia Annamalay</a>, The Max Foundation
-- Prof <a href="https://biodiversity.ubc.ca/people/faculty/sarah-otto">Sarah Otto</a>, University of British Columbia
 - Dr <a href="http://stanford.edu/~samhn/">Sam Heft-Neal</a>, Stanford University
+- Prof <a href="https://research-repository.uwa.edu.au/en/persons/jane-heyworth">Jane Heyworth</a>, University of Western Australia
+- Prof <a href="https://biodiversity.ubc.ca/people/faculty/sarah-otto">Sarah Otto</a>, University of British Columbia
+- <a href="https://www.linkedin.com/in/claire-perry-91398617a/">Claire Perry</a>, Rocky Bay
 - Dr <a href="https://www.rand.org/about/people/w/wagner_zachary.html">Zachary Wagner</a>, Rand
 <br>
 <br>
