@@ -56,6 +56,12 @@ Some relevant databases used in our analyses:
 - Prof <a href="https://biodiversity.ubc.ca/people/faculty/sarah-otto">Sarah Otto</a>, University of British Columbia
 - <a href="https://www.linkedin.com/in/claire-perry-91398617a/">Claire Perry</a>, Rocky Bay
 - Dr <a href="https://www.rand.org/about/people/w/wagner_zachary.html">Zachary Wagner</a>, Rand
+
+## Funding
+Future Child Health has received funding from the following sources:
+- <a href="https://walyanrespiratory.thekids.org.au">Wal-yan Respiratory Research Centre</a>
+- <a href="https://populationmatters.org">Population Matters</a>
+- <a href="http://uwa.edu.au">University of Western Australia</a>
 <br>
 <br>
 
