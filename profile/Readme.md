@@ -9,6 +9,7 @@ The greatest threat to children's health in the future is environmental change (
 
 - Dr <a href="https://www.researchgate.net/profile/Melinda-Judge">Melinda Judge</a>, The Kids Research Institute Australia / University of Western Australia
 - Dr <a href="https://globalecologyflinders.com/people/#SHF">Syeda H. Fatima</a>, Flinders University / The Kids Research Institute Australia
+- Naomi Henry, The Kids Research Institute Australia
 - Prof <a href="https://globalecologyflinders.com/people/#CJAB">Corey J. A. Bradshaw</a>, Flinders University
 - Prof <a href="https://research-repository.uwa.edu.au/en/persons/peter-le-souef">Peter N. Le Souëf</a>, University of Western Australia
 
