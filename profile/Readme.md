@@ -15,12 +15,16 @@ See our '<a href="https://github.com/FutureChildHealth/Outputs">Outputs</a>' rep
 
 ## Collaborators
 - Prof <a href="https://www.isglobal.org/en/our-team/-/profiles/1900">Quique Bassat</a>, Barcelona Institute for Global Health
+- Prof <a href="https://blumsteinlab.eeb.ucla.edu">Dan Blumstein</a>, University of California Los Angeles
+- Dr <a href="https://www.linkedin.com/in/aisha-dasgupta-phd-911a4182/">Aisha Dasgupta</a>, UK Foreign Office
+- Prof <a href="https://biology.stanford.edu/people/paul-ehrlich">Paul Ehrlich</a>, Stanford University
 - Assoc Prof <a href="https://researchportal.murdoch.edu.au/esploro/profile/jatin_kala/overview">Jatin Kala</a>, Murdoch University
 - Prof <a href="https://publichealth.berkeley.edu/people/ndola-prata">Ndola Prata</a>, University of California Berkeley
 - Dr <a href="https://globalecologyflinders.com/people/#FS">Frédérik Saltré</a>, Flinders University
 - <a href="https://www.linkedin.com/in/chitra-m-saraswati/">Chitra Saraswati</a>, The Kids Research Institute Australia
 - <a href="https://www.linkedin.com/in/jhermayne-ubalde-44aa57235/">Jhermayne Ubalde</a>, University of Western Australia
 - Dr <a href="https://loop.frontiersin.org/people/2658416/overview">Lewis Weeda</a>, University of Western Australia
+- Dr <a href="https://www.footprintnetwork.org/about-us/people/">Mathis Wackernagel</a>, Global Footprint Network
 - Dr <a href="https://www.linkedin.com/in/mara-west-9746b91/">Mara West</a>, The Kids Research Institute Australia
 
 ## Former Collaborators
