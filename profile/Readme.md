@@ -26,6 +26,7 @@ Some relevant databases used in our analyses:
 - <a href="http://abs.gov.au">Australian Bureau of Statistics</a>
 - <a href="https://data.worldbank.org">World Bank Open Data</a>
 - <a href="https://originsproject.thekids.org.au/about-origins/">Origins Project</a>
+- <a href="https://www.wa.gov.au/organisation/department-of-the-premier-and-cabinet/office-of-digital-government/peoplewa">PeopleWA</a>
 - <a href="https://wid.world/data/">World Inequality Database</a>
 - <a href="https://track20.org/pages/data_analysis/data.php">Track20</a>
 - <a href="https://www.prb.org">Population Reference Bureau</a>
