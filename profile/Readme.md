@@ -68,8 +68,10 @@ Some relevant databases used in our analyses:
 
 Future Child Health has received funding from the following sources:
 - <a href="https://walyanrespiratory.thekids.org.au">Wal-yan Respiratory Research Centre</a>
+- <a href="https://www.thekids.org.au">The Kids Research Institute Australia</a>
 - <a href="https://populationmatters.org">Population Matters</a>
-- <a href="http://uwa.edu.au">University of Western Australia</a>
+- <a href="http://www.uwa.edu.au">University of Western Australia</a>
+- <a href="https://www.rockefellerfoundation.org/">Rockefeller Foundation</a>
 <br>
 <br>
 
