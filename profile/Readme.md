@@ -11,7 +11,7 @@ The greatest threat to children's health in the future is environmental change (
 - Prof <a href="https://research-repository.uwa.edu.au/en/persons/peter-le-souef">Peter N. Le Souëf</a>, University of Western Australia
 
 ## Research papers arising
-See our 'Outputs' repository for a list of published, submitted, and preprint papers.
+See our '<a href="https://github.com/FutureChildHealth/Outputs">Outputs</a>' repository for a list of published, submitted, and preprint papers.
 
 ## Collaborators
 - <a href="https://www.linkedin.com/in/chitra-m-saraswati/">Chitra Saraswati</a>, The Kids Research Institute Australia
