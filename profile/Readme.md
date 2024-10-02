@@ -64,6 +64,8 @@ Some relevant databases used in our analyses:
 - Dr <a href="https://www.rand.org/about/people/w/wagner_zachary.html">Zachary Wagner</a>, Rand
 
 ## Funding
+<img align="right" src="https://github.com/FutureChildHealth/Outputs/blob/main/www/coins.png" width="70" style="margin-top: 20px">
+
 Future Child Health has received funding from the following sources:
 - <a href="https://walyanrespiratory.thekids.org.au">Wal-yan Respiratory Research Centre</a>
 - <a href="https://populationmatters.org">Population Matters</a>
