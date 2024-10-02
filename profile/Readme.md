@@ -16,6 +16,20 @@ The greatest threat to children's health in the future is environmental change (
 See our '<a href="https://github.com/FutureChildHealth/Outputs">Outputs</a>' repository for a list of published, submitted, and preprint papers.
 <img align="right" src="https://github.com/FutureChildHealth/Outputs/blob/main/www/paper.png" width="70" style="margin-top: 20px">
 
+## Databases
+Some relevant databases used in our analyses:
+<img align="right" src="https://github.com/FutureChildHealth/Outputs/blob/main/www/databaseLogo.png" width="70" style="margin-top: 20px">
+
+- <a href="https://dhsprogram.com">Demographic and Health Surveys</a>
+- <a href="https://www.un.org/development/desa/pd/data-landing-page">United Nations Populaton Division</a>
+- World Health Organization <a href="https://www.who.int/data/gho">Global Health Observatory</a>
+- <a href="https://data.worldbank.org">World Bank Open Data</a>
+- <a href="https://wid.world/data/">World Inequality Database</a>
+- <a href="https://track20.org/pages/data_analysis/data.php">Track20</a>
+- <a href="https://www.worldclim.org">WorldClim</a>
+- UNICEF <a href="https://mics.unicef.org">Multiple Indicator Cluster Survey</a>
+- <a href="http://ourworldindata.org/">Our World in Data</a>
+
 ## Collaborators
 <img align="right" src="https://github.com/FutureChildHealth/Outputs/blob/main/www/collaborators.png" width="70" style="margin-top: 20px">
 
