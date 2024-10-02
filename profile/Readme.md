@@ -41,6 +41,7 @@ Some relevant databases used in our analyses:
 - Dr <a href="https://www.linkedin.com/in/aisha-dasgupta-phd-911a4182/">Aisha Dasgupta</a>, UK Foreign Office
 - Prof <a href="https://biology.stanford.edu/people/paul-ehrlich">Paul Ehrlich</a>, Stanford University
 - Assoc Prof <a href="https://researchportal.murdoch.edu.au/esploro/profile/jatin_kala/overview">Jatin Kala</a>, Murdoch University
+- Prof <a href="https://research-repository.uwa.edu.au/en/persons/kathy-modecki">Kathy Modecki</a>, University of Western Australia
 - Prof <a href="https://publichealth.berkeley.edu/people/ndola-prata">Ndola Prata</a>, University of California Berkeley
 - Dr <a href="https://globalecologyflinders.com/people/#FS">Frédérik Saltré</a>, Flinders University
 - <a href="https://www.linkedin.com/in/chitra-m-saraswati/">Chitra Saraswati</a>, The Kids Research Institute Australia
