@@ -44,6 +44,7 @@ Some relevant databases used in our analyses:
 - Prof <a href="https://publichealth.berkeley.edu/people/ndola-prata">Ndola Prata</a>, University of California Berkeley
 - Dr <a href="https://globalecologyflinders.com/people/#FS">Frédérik Saltré</a>, Flinders University
 - <a href="https://www.linkedin.com/in/chitra-m-saraswati/">Chitra Saraswati</a>, The Kids Research Institute Australia
+- Assoc Prof <a href="https://www.flinders.edu.au/people/jacqueline.stephens">Jacqueline Stephens</a>, Flinders University
 - <a href="https://www.linkedin.com/in/jhermayne-ubalde-44aa57235/">Jhermayne Ubalde</a>, University of Western Australia
 - Dr <a href="https://loop.frontiersin.org/people/2658416/overview">Lewis Weeda</a>, University of Western Australia
 - Dr <a href="https://www.footprintnetwork.org/about-us/people/">Mathis Wackernagel</a>, Global Footprint Network
