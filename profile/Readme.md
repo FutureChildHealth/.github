@@ -5,6 +5,7 @@ The greatest threat to children's health in the future is environmental change (
 <br>
 <br>
 ## Core Team
+<img align="right" src="https://github.com/FutureChildHealth/Outputs/blob/main/www/team.png" width="70" style="margin-top: 20px">
 - Dr <a href="https://www.researchgate.net/profile/Melinda-Judge">Melinda Judge</a>, The Kids Research Institute Australia / University of Western Australia
 - Dr <a href="https://globalecologyflinders.com/people/#SHF">Syeda H. Fatima</a>, Flinders University
 - Professor <a href="https://globalecologyflinders.com/people/#CJAB">Corey J. A. Bradshaw</a>, Flinders University
@@ -15,6 +16,7 @@ See our '<a href="https://github.com/FutureChildHealth/Outputs">Outputs</a>' rep
 <img align="right" src="https://github.com/FutureChildHealth/Outputs/blob/main/www/paper.png" width="70" style="margin-top: 20px">
 
 ## Collaborators
+<img align="right" src="https://github.com/FutureChildHealth/Outputs/blob/main/www/collaborators.png" width="70" style="margin-top: 20px">
 - Prof <a href="https://www.isglobal.org/en/our-team/-/profiles/1900">Quique Bassat</a>, Barcelona Institute for Global Health
 - Prof <a href="https://blumsteinlab.eeb.ucla.edu">Dan Blumstein</a>, University of California Los Angeles
 - Dr <a href="https://www.linkedin.com/in/aisha-dasgupta-phd-911a4182/">Aisha Dasgupta</a>, UK Foreign Office
