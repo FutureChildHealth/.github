@@ -1,5 +1,5 @@
 ## Future Child Health
-<img align="bottom-left" src="https://github.com/FutureChildHealth/.github/blob/main/profile/FCHlogoTransp.png" alt="Future Child Health" width="100" style="float:right">
+<img align="right" src="https://github.com/FutureChildHealth/.github/blob/main/profile/FCHlogoTransp.png" alt="Future Child Health" width="100" style="margin-top: 20px">
 
 The greatest threat to children's health in the future is environmental change (includes climate change). Our research aims to quantify how current and future environmental changes affect child health. We lead a multi-disciplinary team with the expertise to establish this ground-breaking area of research. Page curated by <a href="http://github.com/cjabradshaw">@cjabradshaw</a>.
 <br>
