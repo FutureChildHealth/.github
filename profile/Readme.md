@@ -50,6 +50,7 @@ Some relevant databases used in our analyses:
 
 - <a href="https://github.com/FutureChildHealth/learningRresources">Learning R</a>
 - <a href="https://github.com/FutureChildHealth/learningPythonResources">Learning Python</a>
+- <a href="https://conservationbytes.com/2025/01/15/add-a-voice-update-to-your-loops-in-r/">Loop voice updates in R</a>
 
 ## Collaborators
 <img align="right" src="https://github.com/FutureChildHealth/Outputs/blob/main/www/collaborators.png" width="70" style="margin-top: 20px">
