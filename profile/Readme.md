@@ -37,7 +37,7 @@ Some relevant databases used in our analyses:
 - UNICEF <a href="https://mics.unicef.org">Multiple Indicator Cluster Survey</a>
 - <a href="http://ourworldindata.org/">Our World in Data</a>
 
-## Data principles & tools
+## Data principles
 <img align="right" src="https://github.com/FutureChildHealth/Outputs/blob/main/www/tools.png" width="50" style="margin-top: 20px">
 
 - <a href="https://www.who.int/standards/classifications/classification-of-diseases">International Statistical Classification of Diseases and Related Health Problems</a> (ICD)
