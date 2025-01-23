@@ -43,7 +43,7 @@ Some relevant databases used in our analyses:
 - <a href="https://www.who.int/standards/classifications/classification-of-diseases">International Statistical Classification of Diseases and Related Health Problems</a> (ICD)
 - <a href="https://www.nature.com/articles/sdata201618">FAIR (Findability, Accessibility, Interoperability, and Reusability) Principles</a>
 - <a href="https://ardc.edu.au/resource/the-care-principles/">CARE (Collective benefit, Authority to control, Responsibility, and Ethics)</a> Indigenous data principles
-- <a href="https://github.com/FutureChildHealth/assignDOI">Create a permanent digital object identifier (DOI) for your Github repository</a>
+- <a href="https://conservationbytes.com/2022/03/21/be-wise-about-what-you-put-online/">Be wise about what you put online</a>
 
 ## Coding resources
 <img align="right" src="https://github.com/FutureChildHealth/Outputs/blob/main/www/coding.webp" width="70" style="margin-top: 20px">
@@ -51,6 +51,7 @@ Some relevant databases used in our analyses:
 - <a href="https://github.com/FutureChildHealth/learningRresources">Learning R</a>
 - <a href="https://github.com/FutureChildHealth/learningPythonResources">Learning Python</a>
 - <a href="https://conservationbytes.com/2025/01/15/add-a-voice-update-to-your-loops-in-r/">Loop voice updates in R</a>
+- <a href="https://github.com/FutureChildHealth/assignDOI">Create a permanent digital object identifier (DOI) for your Github repository</a>
 
 ## Collaborators
 <img align="right" src="https://github.com/FutureChildHealth/Outputs/blob/main/www/collaborators.png" width="70" style="margin-top: 20px">
