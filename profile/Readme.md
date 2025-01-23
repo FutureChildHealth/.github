@@ -7,7 +7,7 @@ The greatest threat to children's health in the future is environmental change (
 <br>
 <br>
 ## Core Team
-<img align="right" src="https://github.com/FutureChildHealth/Outputs/blob/main/www/team.png" width="70" style="margin-top: 20px">
+<img align="right" src="https://github.com/FutureChildHealth/Outputs/blob/main/www/team.png" width="50" style="margin-top: 20px">
 
 - Dr <a href="https://www.researchgate.net/profile/Melinda-Judge">Melinda Judge</a>, The Kids Research Institute Australia / University of Western Australia
 - Dr <a href="https://globalecologyflinders.com/people/#SHF">Syeda H. Fatima</a>, Flinders University / The Kids Research Institute Australia
@@ -21,7 +21,7 @@ See our '<a href="https://github.com/FutureChildHealth/Outputs">Outputs</a>' rep
 
 ## Databases
 Some relevant databases used in our analyses:
-<img align="right" src="https://github.com/FutureChildHealth/Outputs/blob/main/www/databaseLogo.png" width="70" style="margin-top: 20px">
+<img align="right" src="https://github.com/FutureChildHealth/Outputs/blob/main/www/databaseLogo.png" width="50" style="margin-top: 20px">
 
 - <a href="https://dhsprogram.com">Demographic and Health Surveys</a>
 - <a href="https://www.un.org/development/desa/pd/data-landing-page">United Nations Populaton Division</a>
@@ -38,7 +38,7 @@ Some relevant databases used in our analyses:
 - <a href="http://ourworldindata.org/">Our World in Data</a>
 
 ## Data principles & tools
-<img align="right" src="https://github.com/FutureChildHealth/Outputs/blob/main/www/tools.png" width="70" style="margin-top: 20px">
+<img align="right" src="https://github.com/FutureChildHealth/Outputs/blob/main/www/tools.png" width="50" style="margin-top: 20px">
 
 - <a href="https://www.who.int/standards/classifications/classification-of-diseases">International Statistical Classification of Diseases and Related Health Problems</a> (ICD)
 - <a href="https://www.nature.com/articles/sdata201618">FAIR (Findability, Accessibility, Interoperability, and Reusability) Principles</a>
@@ -46,7 +46,7 @@ Some relevant databases used in our analyses:
 - <a href="https://conservationbytes.com/2022/03/21/be-wise-about-what-you-put-online/">Be wise about what you put online</a>
 
 ## Coding resources
-<img align="right" src="https://github.com/FutureChildHealth/Outputs/blob/main/www/coding.webp" width="70" style="margin-top: 20px">
+<img align="right" src="https://github.com/FutureChildHealth/Outputs/blob/main/www/coding.webp" width="50" style="margin-top: 20px">
 
 - <a href="https://github.com/FutureChildHealth/learningRresources">Learning R</a>
 - <a href="https://github.com/FutureChildHealth/learningPythonResources">Learning Python</a>
@@ -54,7 +54,7 @@ Some relevant databases used in our analyses:
 - <a href="https://github.com/FutureChildHealth/assignDOI">Create a permanent digital object identifier (DOI) for your Github repository</a>
 
 ## Collaborators
-<img align="right" src="https://github.com/FutureChildHealth/Outputs/blob/main/www/collaborators.png" width="70" style="margin-top: 20px">
+<img align="right" src="https://github.com/FutureChildHealth/Outputs/blob/main/www/collaborators.png" width="50" style="margin-top: 20px">
 
 - Prof <a href="https://www.isglobal.org/en/our-team/-/profiles/1900">Quique Bassat</a>, Barcelona Institute for Global Health
 - Prof <a href="https://blumsteinlab.eeb.ucla.edu">Dan Blumstein</a>, University of California Los Angeles
@@ -81,7 +81,7 @@ Some relevant databases used in our analyses:
 - Dr <a href="https://www.rand.org/about/people/w/wagner_zachary.html">Zachary Wagner</a>, Rand
 
 ## Funding
-<img align="right" src="https://github.com/FutureChildHealth/Outputs/blob/main/www/coins.png" width="70" style="margin-top: 20px">
+<img align="right" src="https://github.com/FutureChildHealth/Outputs/blob/main/www/coins.png" width="50" style="margin-top: 20px">
 
 Future Child Health has received funding from the following sources:
 - <a href="https://walyanrespiratory.thekids.org.au">Wal-yan Respiratory Research Centre</a>
