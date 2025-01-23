@@ -39,6 +39,7 @@ Some relevant databases used in our analyses:
 
 ## Data principles & tools
 <img align="right" src="https://github.com/FutureChildHealth/Outputs/blob/main/www/tools.png" width="70" style="margin-top: 20px">
+
 - <a href="https://www.who.int/standards/classifications/classification-of-diseases">International Statistical Classification of Diseases and Related Health Problems</a> (ICD)
 - <a href="https://www.nature.com/articles/sdata201618">FAIR (Findability, Accessibility, Interoperability, and Reusability) Principles</a>
 - <a href="https://ardc.edu.au/resource/the-care-principles/">CARE (Collective benefit, Authority to control, Responsibility, and Ethics)</a> Indigenous data principles
