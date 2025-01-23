@@ -37,6 +37,12 @@ Some relevant databases used in our analyses:
 - UNICEF <a href="https://mics.unicef.org">Multiple Indicator Cluster Survey</a>
 - <a href="http://ourworldindata.org/">Our World in Data</a>
 
+## Data principles & tools
+- <a href="https://www.who.int/standards/classifications/classification-of-diseases">International Statistical Classification of Diseases and Related Health Problems</a> (ICD)
+- <a href="https://www.nature.com/articles/sdata201618">FAIR (Findability, Accessibility, Interoperability, and Reusability) Principles</a>
+- <a href="https://ardc.edu.au/resource/the-care-principles/">CARE (Collective benefit, Authority to control, Responsibility, and Ethics)</a> Indigenous data principles
+- <a href="">Create a permanent digital object identifier (DOI) for your Github repository</a>
+
 ## Collaborators
 <img align="right" src="https://github.com/FutureChildHealth/Outputs/blob/main/www/collaborators.png" width="70" style="margin-top: 20px">
 
