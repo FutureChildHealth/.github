@@ -45,6 +45,12 @@ Some relevant databases used in our analyses:
 - <a href="https://ardc.edu.au/resource/the-care-principles/">CARE (Collective benefit, Authority to control, Responsibility, and Ethics)</a> Indigenous data principles
 - <a href="https://github.com/FutureChildHealth/assignDOI">Create a permanent digital object identifier (DOI) for your Github repository</a>
 
+## Coding resources
+<img align="right" src="https://github.com/FutureChildHealth/Outputs/blob/main/www/coding.webp" width="70" style="margin-top: 20px">
+
+- <a href="https://github.com/FutureChildHealth/learningRresources">Learning R</a>
+- <a href="https://github.com/FutureChildHealth/learningPythonResources">Learning Python</a>
+
 ## Collaborators
 <img align="right" src="https://github.com/FutureChildHealth/Outputs/blob/main/www/collaborators.png" width="70" style="margin-top: 20px">
 
