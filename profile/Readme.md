@@ -6,11 +6,11 @@ The greatest threat to children's health in the future is environmental change (
 ## Core Team
 <img align="right" src="https://github.com/FutureChildHealth/Outputs/blob/main/www/team.png" width="50" style="margin-top: 20px">
 
-- Dr <a href="https://www.researchgate.net/profile/Melinda-Judge">Melinda Judge</a>, The Kids Research Institute Australia / University of Western Australia
-- Dr <a href="https://globalecologyflinders.com/people/#SHF">Syeda H. Fatima</a>, Flinders University / The Kids Research Institute Australia
-- <a href="https://www.linkedin.com/in/naomi-hemy">Naomi Hemy</a>, The Kids Research Institute Australia
-- Prof <a href="https://globalecologyflinders.com/people/#CJAB">Corey J. A. Bradshaw</a>, Flinders University
-- Prof <a href="https://research-repository.uwa.edu.au/en/persons/peter-le-souef">Peter N. Le Souëf</a>, University of Western Australia
+- Dr <a href="https://futurechildhealth.org/team/dr-melinda-a-judge/">Melinda Judge</a>, The Kids Research Institute Australia / University of Western Australia
+- Dr <a href="https://futurechildhealth.org/team/dr-syeda-hira-fatima/">Syeda H. Fatima</a>, Flinders University / The Kids Research Institute Australia
+- <a href="https://futurechildhealth.org/team/naomi-hemy/">Naomi Hemy</a>, The Kids Research Institute Australia
+- Prof <a href="https://futurechildhealth.org/team/professor-corey-j-a-bradshaw/">Corey J. A. Bradshaw</a>, Flinders University
+- Prof <a href="https://futurechildhealth.org/team/professor-peter-le-souef/">Peter N. Le Souëf</a>, University of Western Australia
 
 ## Research papers arising
 See our '<a href="https://github.com/FutureChildHealth/Outputs">Outputs</a>' repository for a list of published, submitted, and preprint papers.
